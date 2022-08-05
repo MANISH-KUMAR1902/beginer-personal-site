@@ -1,0 +1,166 @@
+.top{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+/*  width: 200px;
+  height: 200px;
+ padding: 20px;
+  border: solid 10px;*/
+}
+.middle-container{
+
+  padding-top: 100px;
+}
+p{
+
+  line-height: 2;
+}
+.para5{
+  color: black;
+  padding-bottom: 40px;
+}
+
+hr{
+border-color: #3AA655;
+border-width: medium;
+border-style: none;
+border-top-style: dotted;
+width: 5%;
+border-width: 10px;
+
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px;
+}
+
+.myself{
+  color: #40514E;
+}
+
+.para4{
+  color: #EAF6F6;
+  font-size: .75rem;
+
+}
+.contact-me{
+  padding-bottom: 40px;
+  padding-top: 100px;
+
+}
+
+BODY{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+  color: #40514E;
+
+}
+.skills{
+
+}
+.skill-row{
+  width: 50%;
+  margin : 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+H1{
+  line-height: 2;
+  font-size: 2em;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+H2{
+  font-size: 2.5rem;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  font-weight: normal;
+
+}
+H3{
+  font-size: 2em;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  color: #11999E;
+}
+
+.skills{
+  padding-top: 40px;
+
+}
+
+.skills{
+  padding-top: 40px;
+
+}
+.bottom{
+
+}
+.top-cloud{
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+.bottom-cloud{
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+.profile-pic{
+  height: 200px;
+  width: 200px;
+  filter: contrast(120%);
+  border-radius: 100%;
+  filter: brightness(120%);
+  /*border: 20px solid red;*/
+}
+.skil-pic{
+  width: 25%;
+  float:right;
+  margin-left: 30px;
+}
+.dsa{
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+a{
+  color: #11999E;
+  margin: 0 20px;
+  text-decoration: none;
+
+}
+a:hover{
+  color: gold;
+}
